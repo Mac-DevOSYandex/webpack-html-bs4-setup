@@ -1,10 +1,10 @@
-# DEPRECATED: Webpack + Bootstrap 4 Setup (v1.6.2) #
+# Webpack + Bootstrap 4 Setup (v0.1.0) #
 
-This was a demonstration on how to combine Bootstrap w/ Webpack 
+This was a demonstration on how to combine Bootstrap w/ Webpack
 
 ## Current Bootstrap version ##
 
-*4.0.0*
+ * Bootstrap v4.3.1 (https://getbootstrap.com/)
 
 ## Build requirements ##
 
@@ -19,4 +19,4 @@ installs dependencies
 starts and opens HMR server for development (localhost:2222)
 
 `npm run build`
-runs build tasks for staging/production (emmits files to `/public/` folder)
+
